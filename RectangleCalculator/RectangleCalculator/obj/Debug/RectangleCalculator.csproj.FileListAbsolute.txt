@@ -1,0 +1,31 @@
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe.config
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.pdb
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csprojAssemblyReference.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Form1.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Properties.Resources.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.GenerateResource.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.pdb
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe.config
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.pdb
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csprojAssemblyReference.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Form1.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Properties.Resources.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.GenerateResource.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.pdb
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe.config
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.exe
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\bin\Debug\RectangleCalculator.pdb
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.AssemblyReference.cache
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Form1.resources
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.Properties.Resources.resources
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.GenerateResource.cache
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.exe
+C:\Users\sgree\Desktop\Assignment One Folder\RectangleCalculator\RectangleCalculator\obj\Debug\RectangleCalculator.pdb
